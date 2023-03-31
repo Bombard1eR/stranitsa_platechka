@@ -2,4 +2,8 @@ slyapa kakaya-to
 
 dobavili dlya platyezhki
 
+
 dlya metriki 2.3 konfkikt
+
+dlya analitiki 2.3 konfkikt
+
